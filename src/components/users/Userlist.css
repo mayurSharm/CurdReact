@@ -1,0 +1,19 @@
+button.btn.view:hover{
+    background-color: orange;
+    color: #fff;
+   
+}
+button.btn.delete:hover{
+    background-color:red;
+    color: #fff;  
+}
+button.btn.edit:hover{
+    background-color:rgb(104, 73, 230);
+    color: #fff;  
+}
+button.btn{
+    font-size: 14px;
+    font-size: 14px;
+    height: 30px;
+    line-height: 10px;
+}
